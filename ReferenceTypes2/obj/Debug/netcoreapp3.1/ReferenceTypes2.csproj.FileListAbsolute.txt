@@ -1,0 +1,13 @@
+C:\Users\Ahmet\source\repos\CampIntro\ReferenceTypes2\bin\Debug\netcoreapp3.1\ReferenceTypes2.exe
+C:\Users\Ahmet\source\repos\CampIntro\ReferenceTypes2\bin\Debug\netcoreapp3.1\ReferenceTypes2.deps.json
+C:\Users\Ahmet\source\repos\CampIntro\ReferenceTypes2\bin\Debug\netcoreapp3.1\ReferenceTypes2.runtimeconfig.json
+C:\Users\Ahmet\source\repos\CampIntro\ReferenceTypes2\bin\Debug\netcoreapp3.1\ReferenceTypes2.runtimeconfig.dev.json
+C:\Users\Ahmet\source\repos\CampIntro\ReferenceTypes2\bin\Debug\netcoreapp3.1\ReferenceTypes2.dll
+C:\Users\Ahmet\source\repos\CampIntro\ReferenceTypes2\bin\Debug\netcoreapp3.1\ReferenceTypes2.pdb
+C:\Users\Ahmet\source\repos\CampIntro\ReferenceTypes2\obj\Debug\netcoreapp3.1\ReferenceTypes2.csprojAssemblyReference.cache
+C:\Users\Ahmet\source\repos\CampIntro\ReferenceTypes2\obj\Debug\netcoreapp3.1\ReferenceTypes2.AssemblyInfoInputs.cache
+C:\Users\Ahmet\source\repos\CampIntro\ReferenceTypes2\obj\Debug\netcoreapp3.1\ReferenceTypes2.AssemblyInfo.cs
+C:\Users\Ahmet\source\repos\CampIntro\ReferenceTypes2\obj\Debug\netcoreapp3.1\ReferenceTypes2.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\CampIntro\ReferenceTypes2\obj\Debug\netcoreapp3.1\ReferenceTypes2.dll
+C:\Users\Ahmet\source\repos\CampIntro\ReferenceTypes2\obj\Debug\netcoreapp3.1\ReferenceTypes2.pdb
+C:\Users\Ahmet\source\repos\CampIntro\ReferenceTypes2\obj\Debug\netcoreapp3.1\ReferenceTypes2.genruntimeconfig.cache
