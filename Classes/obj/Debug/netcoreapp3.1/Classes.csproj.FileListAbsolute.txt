@@ -1,0 +1,12 @@
+C:\Users\Ahmet\source\repos\CampIntro\Classes\bin\Debug\netcoreapp3.1\Classes.exe
+C:\Users\Ahmet\source\repos\CampIntro\Classes\bin\Debug\netcoreapp3.1\Classes.deps.json
+C:\Users\Ahmet\source\repos\CampIntro\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.json
+C:\Users\Ahmet\source\repos\CampIntro\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.dev.json
+C:\Users\Ahmet\source\repos\CampIntro\Classes\bin\Debug\netcoreapp3.1\Classes.dll
+C:\Users\Ahmet\source\repos\CampIntro\Classes\bin\Debug\netcoreapp3.1\Classes.pdb
+C:\Users\Ahmet\source\repos\CampIntro\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfoInputs.cache
+C:\Users\Ahmet\source\repos\CampIntro\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfo.cs
+C:\Users\Ahmet\source\repos\CampIntro\Classes\obj\Debug\netcoreapp3.1\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\CampIntro\Classes\obj\Debug\netcoreapp3.1\Classes.dll
+C:\Users\Ahmet\source\repos\CampIntro\Classes\obj\Debug\netcoreapp3.1\Classes.pdb
+C:\Users\Ahmet\source\repos\CampIntro\Classes\obj\Debug\netcoreapp3.1\Classes.genruntimeconfig.cache
