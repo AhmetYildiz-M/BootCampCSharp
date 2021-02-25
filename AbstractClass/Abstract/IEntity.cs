@@ -1,0 +1,6 @@
+﻿namespace AbstractClass
+{
+    interface IEntity
+    {
+    }
+}

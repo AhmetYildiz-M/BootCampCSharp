@@ -1,0 +1,13 @@
+C:\Users\Ahmet\source\repos\CampIntro\Interface2\bin\Debug\netcoreapp3.1\Interface2.exe
+C:\Users\Ahmet\source\repos\CampIntro\Interface2\bin\Debug\netcoreapp3.1\Interface2.deps.json
+C:\Users\Ahmet\source\repos\CampIntro\Interface2\bin\Debug\netcoreapp3.1\Interface2.runtimeconfig.json
+C:\Users\Ahmet\source\repos\CampIntro\Interface2\bin\Debug\netcoreapp3.1\Interface2.runtimeconfig.dev.json
+C:\Users\Ahmet\source\repos\CampIntro\Interface2\bin\Debug\netcoreapp3.1\Interface2.dll
+C:\Users\Ahmet\source\repos\CampIntro\Interface2\bin\Debug\netcoreapp3.1\Interface2.pdb
+C:\Users\Ahmet\source\repos\CampIntro\Interface2\obj\Debug\netcoreapp3.1\Interface2.csprojAssemblyReference.cache
+C:\Users\Ahmet\source\repos\CampIntro\Interface2\obj\Debug\netcoreapp3.1\Interface2.AssemblyInfoInputs.cache
+C:\Users\Ahmet\source\repos\CampIntro\Interface2\obj\Debug\netcoreapp3.1\Interface2.AssemblyInfo.cs
+C:\Users\Ahmet\source\repos\CampIntro\Interface2\obj\Debug\netcoreapp3.1\Interface2.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\CampIntro\Interface2\obj\Debug\netcoreapp3.1\Interface2.dll
+C:\Users\Ahmet\source\repos\CampIntro\Interface2\obj\Debug\netcoreapp3.1\Interface2.pdb
+C:\Users\Ahmet\source\repos\CampIntro\Interface2\obj\Debug\netcoreapp3.1\Interface2.genruntimeconfig.cache

@@ -9,13 +9,27 @@ namespace Classes
             CustomerManager customerManager = new CustomerManager();
             customerManager.Add();
             customerManager.Update();
-            Console.ReadLine();
+            
 
             ProductManager productManager = new ProductManager();
             productManager.Add();
             productManager.Update();
-            Console.ReadLine();
+            
 
+            Customer customer = new Customer();
+            customer.City = "Ankara";
+            customer.Id = 1;
+            customer.FirstName = "Ahmet";
+            customer.LastName = "Yildiz";
+
+            Customer customer1 = new Customer
+            {
+                Id = 2, City = "Malatya", FirstName = "Rabia", LastName = "Aykut"
+            };
+
+            Console.WriteLine(customer1.FirstName);
+            Console.ReadLine();
+;
         }
     }
       
